@@ -1,0 +1,65 @@
+### colors
+
+- primary color = #069C54
+- secondary color = #048654
+- text color = #393939
+- accent color = #707070
+
+### font family
+
+- Poppins
+
+### hero section
+- Tasty food
+- Try the best food of the week.
+- View Menu
+
+### about section
+- About us
+- We cook the best tasty food
+- We cook the best food in the entire city, with excellent customer service, the best meals and at the best price, visit us.
+- Explore history
+
+
+### service section
+- Offering
+- Our amazing services
+- Excellent food / Fast food / Delivery
+- We offer our clients excellent quality services for many years, with the best and delicious food in the city.
+
+
+### menu section
+- Barbecue salad / Salad with fish / Spinach salad
+- Delicious dish
+- $22.00 / $12.00 / $9.50
+
+### banner section 2
+- 50% OFF​
+- In Adidas Superstar sneakers
+- Shop Now​
+
+### app section
+- App
+- App is aviable
+- Find our application and download it, you can make reservations, food orders, see your deliveries on the way and much more.
+
+### contact section
+- Let's talk
+- Contact us
+- If you want to reserve a table in our restaurant, contact us and we will attend you quickly, with our 24/7 chat service.
+
+### footer section
+- Tasty Food
+- Restaurant
+
+* 
+Services
+Delivery / Pricing / Fast food / Reserve your spot
+*
+Information
+Event / Contact us / Privacy policy / Terms of services
+* 
+Adress 
+Lombok - Indonesia
+tastyfood@email.com
+999 - 888 - 777
